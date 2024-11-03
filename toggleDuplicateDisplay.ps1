@@ -1,3 +1,5 @@
+# https://ss64.com/nt/displayswitch.html
+#
 # displayswitch /internal Use one monitor, the internal one, only.
 # displayswitch /clone Show the same content on both (all?) monitors.
 # displayswitch /extend Make content larger, allow mouse to move from one monitor to the other.
